@@ -300,7 +300,7 @@ margin-bottom: 70px;
 @media screen and (max-width:576px) {
     .container{
         grid-template-columns: repeat(1, 1fr);
-        padding: 10px;
+        padding: 10px 13px;
     }
 
     .container-head{
